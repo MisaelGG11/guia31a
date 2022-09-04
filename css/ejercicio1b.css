@@ -1,0 +1,33 @@
+/* ejercicio1b.css GG20031 */
+
+fichero{
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 20px;
+    display:block;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 3px #A15CFB solid;
+    background:#87E2EF;
+    color:black;
+}
+
+ficha{
+    padding: 5px;
+    background-color:#A9F8C6;
+    width: 40px;
+    height:40px;
+}
+
+ficha *{
+    display:inline-block;
+    
+    height:40px;
+}
+
+nombre, apellido,Dui,AFP{
+    display:inline-block;
+}
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo2.xml  GG20031 -->
+<?xml-stylesheet href="css/ejercicio2b.css"?>
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+<superficie/>
+<alcalde/>
+<tiempo/>
+</departamento>
+<departamento id="2" nombre="Santa Ana">
+<municipio id="1" nombre="Santa Ana">
+<cabecera>Ciudad de Santa Ana</cabecera>
+<habitantes>272,554 (2017)</habitantes>
+<altura>645 m</altura>
+<codigopostal>02010</codigopostal>
+</municipio>
+</departamento>
+<departamento id="3" nombre="Son onate">
+<municipio id="2" nombre="Sonsonate">
+<cabecera>Sonsonate</cabecera>
+<habitantes>72,951 (2017)</habitantes>
+<altura>246 m</altura>
+<codigopostal>03014</codigopostal>
+</municipio>
+</departamento>
+<presidente>Nayib Bukele</presidente>
+<moneda>Dolar Americano</moneda>
+<extensionterritorial>21,041 km²</extensionterritorial>
+<gentilicio>Salvadoreños</gentilicio>
+<idioma>Español</idioma>
+<segundoidioma>Ingles</segundoidioma>
+<Fechadeindependencia>15/sep/1821</Fechadeindependencia>
+<Riomasgrande>Rio Lempa</Riomasgrande>
+<Ubicacion>Centro America,America</Ubicacion>
+<fuerzadeseguridad>PNC</fuerzadeseguridad>
+<codigodearea>+503</codigodearea>
+</pais>
